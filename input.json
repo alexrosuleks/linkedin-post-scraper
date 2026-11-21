@@ -1,0 +1,12 @@
+{
+  "urls": [
+    "https://www.linkedin.com/company/microsoft"
+  ],
+  "limitPerSource": 10,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
